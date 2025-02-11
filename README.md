@@ -37,4 +37,4 @@ python ae_unet.py
 ```
 This script loads images from the `Pylon_images/DIN_Gray` directory, preprocesses them, and trains an autoencoder model. The trained model will be saved as `autoencoder_pylon_grayscale_img_5epochs.h5`.
 
-pip install -r requirements.txt
+
